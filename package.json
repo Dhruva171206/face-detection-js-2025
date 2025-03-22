@@ -1,0 +1,15 @@
+{
+  "name": "face-detection-javascript-master",
+  "version": "1.0.0",
+  "description": "## `navigator.getUserMedia`",
+  "main": "face-api.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "scripts.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
